@@ -1,0 +1,866 @@
+[
+  {
+    "name": "aggregated_v2beta1.json",
+    "path": "api/discovery/aggregated_v2beta1.json",
+    "sha": "69f29ef5f93236990cb2de8061a74496d79a5384",
+    "size": 50796,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/aggregated_v2beta1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/aggregated_v2beta1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/69f29ef5f93236990cb2de8061a74496d79a5384",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/aggregated_v2beta1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/aggregated_v2beta1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/69f29ef5f93236990cb2de8061a74496d79a5384",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/aggregated_v2beta1.json"
+    }
+  },
+  {
+    "name": "api.json",
+    "path": "api/discovery/api.json",
+    "sha": "2a591068b2efbbf85b9492903a1456d6c7d9f08b",
+    "size": 184,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/api.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/api.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/2a591068b2efbbf85b9492903a1456d6c7d9f08b",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/api.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/api.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/2a591068b2efbbf85b9492903a1456d6c7d9f08b",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/api.json"
+    }
+  },
+  {
+    "name": "api__v1.json",
+    "path": "api/discovery/api__v1.json",
+    "sha": "c7d8484b315cea6fecfea151a53a8f3bb5ab155e",
+    "size": 10743,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/api__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/api__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/c7d8484b315cea6fecfea151a53a8f3bb5ab155e",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/api__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/api__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/c7d8484b315cea6fecfea151a53a8f3bb5ab155e",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/api__v1.json"
+    }
+  },
+  {
+    "name": "apis.json",
+    "path": "api/discovery/apis.json",
+    "sha": "f2b9d65a47b0ac3bb85bc7a90b30d61aeb1a2111",
+    "size": 6926,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/f2b9d65a47b0ac3bb85bc7a90b30d61aeb1a2111",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/f2b9d65a47b0ac3bb85bc7a90b30d61aeb1a2111",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis.json"
+    }
+  },
+  {
+    "name": "apis__admissionregistration.k8s.io.json",
+    "path": "api/discovery/apis__admissionregistration.k8s.io.json",
+    "sha": "1ef4a7611725219b2b9cc487685ebdea85bcc45f",
+    "size": 511,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__admissionregistration.k8s.io.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__admissionregistration.k8s.io.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/1ef4a7611725219b2b9cc487685ebdea85bcc45f",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__admissionregistration.k8s.io.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__admissionregistration.k8s.io.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/1ef4a7611725219b2b9cc487685ebdea85bcc45f",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__admissionregistration.k8s.io.json"
+    }
+  },
+  {
+    "name": "apis__admissionregistration.k8s.io__v1.json",
+    "path": "api/discovery/apis__admissionregistration.k8s.io__v1.json",
+    "sha": "974b30c8ad2cbde87a837b97c5841b7614134533",
+    "size": 1050,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__admissionregistration.k8s.io__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__admissionregistration.k8s.io__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/974b30c8ad2cbde87a837b97c5841b7614134533",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__admissionregistration.k8s.io__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__admissionregistration.k8s.io__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/974b30c8ad2cbde87a837b97c5841b7614134533",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__admissionregistration.k8s.io__v1.json"
+    }
+  },
+  {
+    "name": "apis__admissionregistration.k8s.io__v1alpha1.json",
+    "path": "api/discovery/apis__admissionregistration.k8s.io__v1alpha1.json",
+    "sha": "d8730f0376b2450adb92c2acf121db764c24a648",
+    "size": 1289,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__admissionregistration.k8s.io__v1alpha1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__admissionregistration.k8s.io__v1alpha1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/d8730f0376b2450adb92c2acf121db764c24a648",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__admissionregistration.k8s.io__v1alpha1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__admissionregistration.k8s.io__v1alpha1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/d8730f0376b2450adb92c2acf121db764c24a648",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__admissionregistration.k8s.io__v1alpha1.json"
+    }
+  },
+  {
+    "name": "apis__admissionregistration.k8s.io__v1beta1.json",
+    "path": "api/discovery/apis__admissionregistration.k8s.io__v1beta1.json",
+    "sha": "228d2fbea29b2f953390e8f6b238327a99b251dd",
+    "size": 1288,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__admissionregistration.k8s.io__v1beta1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__admissionregistration.k8s.io__v1beta1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/228d2fbea29b2f953390e8f6b238327a99b251dd",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__admissionregistration.k8s.io__v1beta1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__admissionregistration.k8s.io__v1beta1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/228d2fbea29b2f953390e8f6b238327a99b251dd",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__admissionregistration.k8s.io__v1beta1.json"
+    }
+  },
+  {
+    "name": "apis__apiextensions.k8s.io.json",
+    "path": "api/discovery/apis__apiextensions.k8s.io.json",
+    "sha": "0c06039a847bea0fd967c632487a2af5ad9a8d64",
+    "size": 281,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__apiextensions.k8s.io.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__apiextensions.k8s.io.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/0c06039a847bea0fd967c632487a2af5ad9a8d64",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__apiextensions.k8s.io.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__apiextensions.k8s.io.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/0c06039a847bea0fd967c632487a2af5ad9a8d64",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__apiextensions.k8s.io.json"
+    }
+  },
+  {
+    "name": "apis__apiextensions.k8s.io__v1.json",
+    "path": "api/discovery/apis__apiextensions.k8s.io__v1.json",
+    "sha": "ba7b5dc919220587f781b746f88fd06d2bb41598",
+    "size": 859,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__apiextensions.k8s.io__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__apiextensions.k8s.io__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/ba7b5dc919220587f781b746f88fd06d2bb41598",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__apiextensions.k8s.io__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__apiextensions.k8s.io__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/ba7b5dc919220587f781b746f88fd06d2bb41598",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__apiextensions.k8s.io__v1.json"
+    }
+  },
+  {
+    "name": "apis__apiregistration.k8s.io.json",
+    "path": "api/discovery/apis__apiregistration.k8s.io.json",
+    "sha": "224aaa826ac984c0628d68249ac47d3b8c9652b6",
+    "size": 287,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__apiregistration.k8s.io.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__apiregistration.k8s.io.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/224aaa826ac984c0628d68249ac47d3b8c9652b6",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__apiregistration.k8s.io.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__apiregistration.k8s.io.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/224aaa826ac984c0628d68249ac47d3b8c9652b6",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__apiregistration.k8s.io.json"
+    }
+  },
+  {
+    "name": "apis__apiregistration.k8s.io__v1.json",
+    "path": "api/discovery/apis__apiregistration.k8s.io__v1.json",
+    "sha": "470c62af20e53b38bc4fb6a7abaf9eb6b65b28a7",
+    "size": 730,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__apiregistration.k8s.io__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__apiregistration.k8s.io__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/470c62af20e53b38bc4fb6a7abaf9eb6b65b28a7",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__apiregistration.k8s.io__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__apiregistration.k8s.io__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/470c62af20e53b38bc4fb6a7abaf9eb6b65b28a7",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__apiregistration.k8s.io__v1.json"
+    }
+  },
+  {
+    "name": "apis__apps.json",
+    "path": "api/discovery/apis__apps.json",
+    "sha": "efadbfaf2c06b22c161a74b71b3bc075215581a9",
+    "size": 233,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__apps.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__apps.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/efadbfaf2c06b22c161a74b71b3bc075215581a9",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__apps.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__apps.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/efadbfaf2c06b22c161a74b71b3bc075215581a9",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__apps.json"
+    }
+  },
+  {
+    "name": "apis__apps__v1.json",
+    "path": "api/discovery/apis__apps__v1.json",
+    "sha": "5f3a918159595072a609bac7e80a1ff4571fff95",
+    "size": 3787,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__apps__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__apps__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/5f3a918159595072a609bac7e80a1ff4571fff95",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__apps__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__apps__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/5f3a918159595072a609bac7e80a1ff4571fff95",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__apps__v1.json"
+    }
+  },
+  {
+    "name": "apis__authentication.k8s.io.json",
+    "path": "api/discovery/apis__authentication.k8s.io.json",
+    "sha": "ea3f255122f48c56e6569732322c4788cefb46b8",
+    "size": 476,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__authentication.k8s.io.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__authentication.k8s.io.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/ea3f255122f48c56e6569732322c4788cefb46b8",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__authentication.k8s.io.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__authentication.k8s.io.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/ea3f255122f48c56e6569732322c4788cefb46b8",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__authentication.k8s.io.json"
+    }
+  },
+  {
+    "name": "apis__authentication.k8s.io__v1.json",
+    "path": "api/discovery/apis__authentication.k8s.io__v1.json",
+    "sha": "33c5b434f3071b6e37b321ca392557be201121a1",
+    "size": 495,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__authentication.k8s.io__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__authentication.k8s.io__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/33c5b434f3071b6e37b321ca392557be201121a1",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__authentication.k8s.io__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__authentication.k8s.io__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/33c5b434f3071b6e37b321ca392557be201121a1",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__authentication.k8s.io__v1.json"
+    }
+  },
+  {
+    "name": "apis__authentication.k8s.io__v1alpha1.json",
+    "path": "api/discovery/apis__authentication.k8s.io__v1alpha1.json",
+    "sha": "173f3a74c2ee9e38ebe2ced856f0183688e7f8b1",
+    "size": 323,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__authentication.k8s.io__v1alpha1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__authentication.k8s.io__v1alpha1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/173f3a74c2ee9e38ebe2ced856f0183688e7f8b1",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__authentication.k8s.io__v1alpha1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__authentication.k8s.io__v1alpha1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/173f3a74c2ee9e38ebe2ced856f0183688e7f8b1",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__authentication.k8s.io__v1alpha1.json"
+    }
+  },
+  {
+    "name": "apis__authentication.k8s.io__v1beta1.json",
+    "path": "api/discovery/apis__authentication.k8s.io__v1beta1.json",
+    "sha": "3f91e6afe1bce5d58d939f47a2204b83f9ddc14d",
+    "size": 322,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__authentication.k8s.io__v1beta1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__authentication.k8s.io__v1beta1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/3f91e6afe1bce5d58d939f47a2204b83f9ddc14d",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__authentication.k8s.io__v1beta1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__authentication.k8s.io__v1beta1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/3f91e6afe1bce5d58d939f47a2204b83f9ddc14d",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__authentication.k8s.io__v1beta1.json"
+    }
+  },
+  {
+    "name": "apis__authorization.k8s.io.json",
+    "path": "api/discovery/apis__authorization.k8s.io.json",
+    "sha": "6ef70c24bb4a62787c2e62d726e9a6107c917c33",
+    "size": 281,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__authorization.k8s.io.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__authorization.k8s.io.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/6ef70c24bb4a62787c2e62d726e9a6107c917c33",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__authorization.k8s.io.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__authorization.k8s.io.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/6ef70c24bb4a62787c2e62d726e9a6107c917c33",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__authorization.k8s.io.json"
+    }
+  },
+  {
+    "name": "apis__authorization.k8s.io__v1.json",
+    "path": "api/discovery/apis__authorization.k8s.io__v1.json",
+    "sha": "82b5d412a1958be902fe41dec33a40f187cddd77",
+    "size": 963,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__authorization.k8s.io__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__authorization.k8s.io__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/82b5d412a1958be902fe41dec33a40f187cddd77",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__authorization.k8s.io__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__authorization.k8s.io__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/82b5d412a1958be902fe41dec33a40f187cddd77",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__authorization.k8s.io__v1.json"
+    }
+  },
+  {
+    "name": "apis__autoscaling.json",
+    "path": "api/discovery/apis__autoscaling.json",
+    "sha": "3ed774043f7ba306774f08fc664087ca3e4eb9b8",
+    "size": 329,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__autoscaling.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__autoscaling.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/3ed774043f7ba306774f08fc664087ca3e4eb9b8",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__autoscaling.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__autoscaling.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/3ed774043f7ba306774f08fc664087ca3e4eb9b8",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__autoscaling.json"
+    }
+  },
+  {
+    "name": "apis__autoscaling__v1.json",
+    "path": "api/discovery/apis__autoscaling__v1.json",
+    "sha": "6c3d1028f331fa232354246d36c8336a0d1ef411",
+    "size": 816,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__autoscaling__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__autoscaling__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/6c3d1028f331fa232354246d36c8336a0d1ef411",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__autoscaling__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__autoscaling__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/6c3d1028f331fa232354246d36c8336a0d1ef411",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__autoscaling__v1.json"
+    }
+  },
+  {
+    "name": "apis__autoscaling__v2.json",
+    "path": "api/discovery/apis__autoscaling__v2.json",
+    "sha": "e0f4632ca90d0f4f1277d44b143d28a57a68047e",
+    "size": 816,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__autoscaling__v2.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__autoscaling__v2.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/e0f4632ca90d0f4f1277d44b143d28a57a68047e",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__autoscaling__v2.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__autoscaling__v2.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/e0f4632ca90d0f4f1277d44b143d28a57a68047e",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__autoscaling__v2.json"
+    }
+  },
+  {
+    "name": "apis__batch.json",
+    "path": "api/discovery/apis__batch.json",
+    "sha": "74ab168c27e19178197557bd5eb7e67fc1aadbf4",
+    "size": 236,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__batch.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__batch.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/74ab168c27e19178197557bd5eb7e67fc1aadbf4",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__batch.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__batch.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/74ab168c27e19178197557bd5eb7e67fc1aadbf4",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__batch.json"
+    }
+  },
+  {
+    "name": "apis__batch__v1.json",
+    "path": "api/discovery/apis__batch__v1.json",
+    "sha": "01800d9a3c1aa7a501e60700fcb7343fead19505",
+    "size": 1289,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__batch__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__batch__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/01800d9a3c1aa7a501e60700fcb7343fead19505",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__batch__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__batch__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/01800d9a3c1aa7a501e60700fcb7343fead19505",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__batch__v1.json"
+    }
+  },
+  {
+    "name": "apis__certificates.k8s.io.json",
+    "path": "api/discovery/apis__certificates.k8s.io.json",
+    "sha": "01560b86d5808d13ff8403ced56742c04b6194f5",
+    "size": 373,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__certificates.k8s.io.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__certificates.k8s.io.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/01560b86d5808d13ff8403ced56742c04b6194f5",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__certificates.k8s.io.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__certificates.k8s.io.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/01560b86d5808d13ff8403ced56742c04b6194f5",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__certificates.k8s.io.json"
+    }
+  },
+  {
+    "name": "apis__certificates.k8s.io__v1.json",
+    "path": "api/discovery/apis__certificates.k8s.io__v1.json",
+    "sha": "d58db58feb30d552cb4ceb878cfdbf3eebfb847e",
+    "size": 1027,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__certificates.k8s.io__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__certificates.k8s.io__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/d58db58feb30d552cb4ceb878cfdbf3eebfb847e",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__certificates.k8s.io__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__certificates.k8s.io__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/d58db58feb30d552cb4ceb878cfdbf3eebfb847e",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__certificates.k8s.io__v1.json"
+    }
+  },
+  {
+    "name": "apis__certificates.k8s.io__v1alpha1.json",
+    "path": "api/discovery/apis__certificates.k8s.io__v1alpha1.json",
+    "sha": "6b18c501b0cb5bbc9a142d8abecc815316b47bab",
+    "size": 497,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__certificates.k8s.io__v1alpha1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__certificates.k8s.io__v1alpha1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/6b18c501b0cb5bbc9a142d8abecc815316b47bab",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__certificates.k8s.io__v1alpha1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__certificates.k8s.io__v1alpha1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/6b18c501b0cb5bbc9a142d8abecc815316b47bab",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__certificates.k8s.io__v1alpha1.json"
+    }
+  },
+  {
+    "name": "apis__coordination.k8s.io.json",
+    "path": "api/discovery/apis__coordination.k8s.io.json",
+    "sha": "9ff9010477069ddd514f6da1401e82cf453c77e5",
+    "size": 278,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__coordination.k8s.io.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__coordination.k8s.io.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/9ff9010477069ddd514f6da1401e82cf453c77e5",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__coordination.k8s.io.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__coordination.k8s.io.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/9ff9010477069ddd514f6da1401e82cf453c77e5",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__coordination.k8s.io.json"
+    }
+  },
+  {
+    "name": "apis__coordination.k8s.io__v1.json",
+    "path": "api/discovery/apis__coordination.k8s.io__v1.json",
+    "sha": "e6e0cc1f72212841ef2f10064a6eb80310dd49e7",
+    "size": 451,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__coordination.k8s.io__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__coordination.k8s.io__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/e6e0cc1f72212841ef2f10064a6eb80310dd49e7",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__coordination.k8s.io__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__coordination.k8s.io__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/e6e0cc1f72212841ef2f10064a6eb80310dd49e7",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__coordination.k8s.io__v1.json"
+    }
+  },
+  {
+    "name": "apis__discovery.k8s.io.json",
+    "path": "api/discovery/apis__discovery.k8s.io.json",
+    "sha": "55029f9f47c76981e8958c2da70daa1eabe34171",
+    "size": 269,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__discovery.k8s.io.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__discovery.k8s.io.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/55029f9f47c76981e8958c2da70daa1eabe34171",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__discovery.k8s.io.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__discovery.k8s.io.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/55029f9f47c76981e8958c2da70daa1eabe34171",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__discovery.k8s.io.json"
+    }
+  },
+  {
+    "name": "apis__discovery.k8s.io__v1.json",
+    "path": "api/discovery/apis__discovery.k8s.io__v1.json",
+    "sha": "194391c7533bb0a27a3eb3f84a783499acf42745",
+    "size": 472,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__discovery.k8s.io__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__discovery.k8s.io__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/194391c7533bb0a27a3eb3f84a783499acf42745",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__discovery.k8s.io__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__discovery.k8s.io__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/194391c7533bb0a27a3eb3f84a783499acf42745",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__discovery.k8s.io__v1.json"
+    }
+  },
+  {
+    "name": "apis__events.k8s.io.json",
+    "path": "api/discovery/apis__events.k8s.io.json",
+    "sha": "a0225b74c6661ba156a7026a1be283bde0d966d7",
+    "size": 260,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__events.k8s.io.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__events.k8s.io.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/a0225b74c6661ba156a7026a1be283bde0d966d7",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__events.k8s.io.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__events.k8s.io.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/a0225b74c6661ba156a7026a1be283bde0d966d7",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__events.k8s.io.json"
+    }
+  },
+  {
+    "name": "apis__events.k8s.io__v1.json",
+    "path": "api/discovery/apis__events.k8s.io__v1.json",
+    "sha": "680fd6cc0073b75a3ed94856bc9c0f42c7f75964",
+    "size": 489,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__events.k8s.io__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__events.k8s.io__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/680fd6cc0073b75a3ed94856bc9c0f42c7f75964",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__events.k8s.io__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__events.k8s.io__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/680fd6cc0073b75a3ed94856bc9c0f42c7f75964",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__events.k8s.io__v1.json"
+    }
+  },
+  {
+    "name": "apis__flowcontrol.apiserver.k8s.io.json",
+    "path": "api/discovery/apis__flowcontrol.apiserver.k8s.io.json",
+    "sha": "e86a2403527147f1cbac5af5425a6afef643c05f",
+    "size": 427,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__flowcontrol.apiserver.k8s.io.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__flowcontrol.apiserver.k8s.io.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/e86a2403527147f1cbac5af5425a6afef643c05f",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__flowcontrol.apiserver.k8s.io.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__flowcontrol.apiserver.k8s.io.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/e86a2403527147f1cbac5af5425a6afef643c05f",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__flowcontrol.apiserver.k8s.io.json"
+    }
+  },
+  {
+    "name": "apis__flowcontrol.apiserver.k8s.io__v1beta2.json",
+    "path": "api/discovery/apis__flowcontrol.apiserver.k8s.io__v1beta2.json",
+    "sha": "7e109684176ff981b8fa2d94848f62379df85339",
+    "size": 1317,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__flowcontrol.apiserver.k8s.io__v1beta2.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__flowcontrol.apiserver.k8s.io__v1beta2.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/7e109684176ff981b8fa2d94848f62379df85339",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__flowcontrol.apiserver.k8s.io__v1beta2.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__flowcontrol.apiserver.k8s.io__v1beta2.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/7e109684176ff981b8fa2d94848f62379df85339",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__flowcontrol.apiserver.k8s.io__v1beta2.json"
+    }
+  },
+  {
+    "name": "apis__flowcontrol.apiserver.k8s.io__v1beta3.json",
+    "path": "api/discovery/apis__flowcontrol.apiserver.k8s.io__v1beta3.json",
+    "sha": "cd173a9aff6ff45f291b9defd820c77def822424",
+    "size": 1317,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__flowcontrol.apiserver.k8s.io__v1beta3.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__flowcontrol.apiserver.k8s.io__v1beta3.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/cd173a9aff6ff45f291b9defd820c77def822424",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__flowcontrol.apiserver.k8s.io__v1beta3.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__flowcontrol.apiserver.k8s.io__v1beta3.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/cd173a9aff6ff45f291b9defd820c77def822424",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__flowcontrol.apiserver.k8s.io__v1beta3.json"
+    }
+  },
+  {
+    "name": "apis__internal.apiserver.k8s.io.json",
+    "path": "api/discovery/apis__internal.apiserver.k8s.io.json",
+    "sha": "dde6b9972849e9da07e54714d0a6a51d83fe4c2d",
+    "size": 320,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__internal.apiserver.k8s.io.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__internal.apiserver.k8s.io.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/dde6b9972849e9da07e54714d0a6a51d83fe4c2d",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__internal.apiserver.k8s.io.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__internal.apiserver.k8s.io.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/dde6b9972849e9da07e54714d0a6a51d83fe4c2d",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__internal.apiserver.k8s.io.json"
+    }
+  },
+  {
+    "name": "apis__internal.apiserver.k8s.io__v1alpha1.json",
+    "path": "api/discovery/apis__internal.apiserver.k8s.io__v1alpha1.json",
+    "sha": "c1eed4f72b0518d7650968d8568484ffeb91cc2b",
+    "size": 703,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__internal.apiserver.k8s.io__v1alpha1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__internal.apiserver.k8s.io__v1alpha1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/c1eed4f72b0518d7650968d8568484ffeb91cc2b",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__internal.apiserver.k8s.io__v1alpha1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__internal.apiserver.k8s.io__v1alpha1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/c1eed4f72b0518d7650968d8568484ffeb91cc2b",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__internal.apiserver.k8s.io__v1alpha1.json"
+    }
+  },
+  {
+    "name": "apis__networking.k8s.io.json",
+    "path": "api/discovery/apis__networking.k8s.io.json",
+    "sha": "8b3c388226ba4dfec9a6e0af4db8cfbeab08dea4",
+    "size": 365,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__networking.k8s.io.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__networking.k8s.io.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/8b3c388226ba4dfec9a6e0af4db8cfbeab08dea4",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__networking.k8s.io.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__networking.k8s.io.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/8b3c388226ba4dfec9a6e0af4db8cfbeab08dea4",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__networking.k8s.io.json"
+    }
+  },
+  {
+    "name": "apis__networking.k8s.io__v1.json",
+    "path": "api/discovery/apis__networking.k8s.io__v1.json",
+    "sha": "688c9a8c3b8515a1ef0f1937159767d2112c15cc",
+    "size": 1459,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__networking.k8s.io__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__networking.k8s.io__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/688c9a8c3b8515a1ef0f1937159767d2112c15cc",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__networking.k8s.io__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__networking.k8s.io__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/688c9a8c3b8515a1ef0f1937159767d2112c15cc",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__networking.k8s.io__v1.json"
+    }
+  },
+  {
+    "name": "apis__networking.k8s.io__v1alpha1.json",
+    "path": "api/discovery/apis__networking.k8s.io__v1alpha1.json",
+    "sha": "15eeefa973f0b00be84af9d27b4ee2f2e1c4e2df",
+    "size": 908,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__networking.k8s.io__v1alpha1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__networking.k8s.io__v1alpha1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/15eeefa973f0b00be84af9d27b4ee2f2e1c4e2df",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__networking.k8s.io__v1alpha1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__networking.k8s.io__v1alpha1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/15eeefa973f0b00be84af9d27b4ee2f2e1c4e2df",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__networking.k8s.io__v1alpha1.json"
+    }
+  },
+  {
+    "name": "apis__node.k8s.io.json",
+    "path": "api/discovery/apis__node.k8s.io.json",
+    "sha": "39fd8f88730439f75886eb6553c6c0b63b751291",
+    "size": 254,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__node.k8s.io.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__node.k8s.io.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/39fd8f88730439f75886eb6553c6c0b63b751291",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__node.k8s.io.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__node.k8s.io.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/39fd8f88730439f75886eb6553c6c0b63b751291",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__node.k8s.io.json"
+    }
+  },
+  {
+    "name": "apis__node.k8s.io__v1.json",
+    "path": "api/discovery/apis__node.k8s.io__v1.json",
+    "sha": "1d04aeeaca75df150731d0a818398e547dcf69dd",
+    "size": 466,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__node.k8s.io__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__node.k8s.io__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/1d04aeeaca75df150731d0a818398e547dcf69dd",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__node.k8s.io__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__node.k8s.io__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/1d04aeeaca75df150731d0a818398e547dcf69dd",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__node.k8s.io__v1.json"
+    }
+  },
+  {
+    "name": "apis__policy.json",
+    "path": "api/discovery/apis__policy.json",
+    "sha": "031ea90115495e276199bd30f9de3475b64e7a1c",
+    "size": 239,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__policy.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__policy.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/031ea90115495e276199bd30f9de3475b64e7a1c",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__policy.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__policy.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/031ea90115495e276199bd30f9de3475b64e7a1c",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__policy.json"
+    }
+  },
+  {
+    "name": "apis__policy__v1.json",
+    "path": "api/discovery/apis__policy__v1.json",
+    "sha": "c30df8ba2452730f95402eae14dc7495665b12b2",
+    "size": 746,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__policy__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__policy__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/c30df8ba2452730f95402eae14dc7495665b12b2",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__policy__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__policy__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/c30df8ba2452730f95402eae14dc7495665b12b2",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__policy__v1.json"
+    }
+  },
+  {
+    "name": "apis__rbac.authorization.k8s.io.json",
+    "path": "api/discovery/apis__rbac.authorization.k8s.io.json",
+    "sha": "2be299604c52cbcf8ac1c9d0a6864e168725496a",
+    "size": 296,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__rbac.authorization.k8s.io.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__rbac.authorization.k8s.io.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/2be299604c52cbcf8ac1c9d0a6864e168725496a",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__rbac.authorization.k8s.io.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__rbac.authorization.k8s.io.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/2be299604c52cbcf8ac1c9d0a6864e168725496a",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__rbac.authorization.k8s.io.json"
+    }
+  },
+  {
+    "name": "apis__rbac.authorization.k8s.io__v1.json",
+    "path": "api/discovery/apis__rbac.authorization.k8s.io__v1.json",
+    "sha": "47aa7f13d5b6bb2979fb7fd96f5cbd162015d311",
+    "size": 1527,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__rbac.authorization.k8s.io__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__rbac.authorization.k8s.io__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/47aa7f13d5b6bb2979fb7fd96f5cbd162015d311",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__rbac.authorization.k8s.io__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__rbac.authorization.k8s.io__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/47aa7f13d5b6bb2979fb7fd96f5cbd162015d311",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__rbac.authorization.k8s.io__v1.json"
+    }
+  },
+  {
+    "name": "apis__resource.k8s.io.json",
+    "path": "api/discovery/apis__resource.k8s.io.json",
+    "sha": "5dd7e0820e53734e876ea01ede8b81c0643e9891",
+    "size": 290,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__resource.k8s.io.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__resource.k8s.io.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/5dd7e0820e53734e876ea01ede8b81c0643e9891",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__resource.k8s.io.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__resource.k8s.io.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/5dd7e0820e53734e876ea01ede8b81c0643e9891",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__resource.k8s.io.json"
+    }
+  },
+  {
+    "name": "apis__resource.k8s.io__v1alpha2.json",
+    "path": "api/discovery/apis__resource.k8s.io__v1alpha2.json",
+    "sha": "c5981a2a1c9134627fbc8e87f4b0760f68355c1d",
+    "size": 2024,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__resource.k8s.io__v1alpha2.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__resource.k8s.io__v1alpha2.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/c5981a2a1c9134627fbc8e87f4b0760f68355c1d",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__resource.k8s.io__v1alpha2.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__resource.k8s.io__v1alpha2.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/c5981a2a1c9134627fbc8e87f4b0760f68355c1d",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__resource.k8s.io__v1alpha2.json"
+    }
+  },
+  {
+    "name": "apis__scheduling.k8s.io.json",
+    "path": "api/discovery/apis__scheduling.k8s.io.json",
+    "sha": "3782996ff7f06370e7c5ce53866cca6e06511b3a",
+    "size": 272,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__scheduling.k8s.io.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__scheduling.k8s.io.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/3782996ff7f06370e7c5ce53866cca6e06511b3a",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__scheduling.k8s.io.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__scheduling.k8s.io.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/3782996ff7f06370e7c5ce53866cca6e06511b3a",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__scheduling.k8s.io.json"
+    }
+  },
+  {
+    "name": "apis__scheduling.k8s.io__v1.json",
+    "path": "api/discovery/apis__scheduling.k8s.io__v1.json",
+    "sha": "aa3a8d220779b470cecda96365f4f2aeebd23100",
+    "size": 519,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__scheduling.k8s.io__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__scheduling.k8s.io__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/aa3a8d220779b470cecda96365f4f2aeebd23100",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__scheduling.k8s.io__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__scheduling.k8s.io__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/aa3a8d220779b470cecda96365f4f2aeebd23100",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__scheduling.k8s.io__v1.json"
+    }
+  },
+  {
+    "name": "apis__storage.k8s.io.json",
+    "path": "api/discovery/apis__storage.k8s.io.json",
+    "sha": "5b098bdb6434490018ccb06200f81fc571b14e66",
+    "size": 263,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__storage.k8s.io.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__storage.k8s.io.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/5b098bdb6434490018ccb06200f81fc571b14e66",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__storage.k8s.io.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__storage.k8s.io.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/5b098bdb6434490018ccb06200f81fc571b14e66",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__storage.k8s.io.json"
+    }
+  },
+  {
+    "name": "apis__storage.k8s.io__v1.json",
+    "path": "api/discovery/apis__storage.k8s.io__v1.json",
+    "sha": "e30cdd56a30c31dff236e40783e8d0336a325c18",
+    "size": 2151,
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__storage.k8s.io__v1.json?ref=release-1.28",
+    "html_url": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__storage.k8s.io__v1.json",
+    "git_url": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/e30cdd56a30c31dff236e40783e8d0336a325c18",
+    "download_url": "https://raw.githubusercontent.com/kubernetes/kubernetes/release-1.28/api/discovery/apis__storage.k8s.io__v1.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery/apis__storage.k8s.io__v1.json?ref=release-1.28",
+      "git": "https://api.github.com/repos/kubernetes/kubernetes/git/blobs/e30cdd56a30c31dff236e40783e8d0336a325c18",
+      "html": "https://github.com/kubernetes/kubernetes/blob/release-1.28/api/discovery/apis__storage.k8s.io__v1.json"
+    }
+  }
+]

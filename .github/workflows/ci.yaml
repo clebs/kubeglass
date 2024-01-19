@@ -1,0 +1,47 @@
+name: ci
+on:
+  push:
+    branches:
+      - 'main'
+  pull_request:
+    branches:
+      - '*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code into the Go module directory
+        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+
+      - uses: actions/setup-go@93397bea11091df50f3d7e59dc26a7711a8bcfbe # v4.1.0
+        with:
+          go-version: "1.21"
+          check-latest: true
+
+      - name: Add GOPATH/bin to PATH
+        run: echo "$(go env GOPATH)/bin" >> $GITHUB_PATH
+
+      - name: Ensure go.mod is already tidied
+        run: go mod tidy && git diff --no-patch --exit-code
+
+      - name: Run Unit Tests
+        run: make test
+
+      - name: Upload coverage reports to Codecov
+        uses: codecov/codecov-action@v3
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
+
+      - name: Verify building
+        run: make build
+
+      - name: Run GoReleaser
+        uses: goreleaser/goreleaser-action@7ec5c2b0c6cdda6e8bbb49444bc797dd33d74dd8 # v5.0.0
+        with:
+          install-only: true
+
+      - name: Verify goreleaser
+        run: make snapshot
+
+      - run: ./dist/kubepug_linux_amd64_v1/kubepug version
