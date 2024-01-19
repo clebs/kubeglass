@@ -2,8 +2,8 @@ package cmd
 
 import (
 	"fmt"
+	"log"
 	"os"
-	"path/filepath"
 	"strings"
 
 	"github.com/clebs/kubeglass/pkg/api"
@@ -23,7 +23,7 @@ var (
 
 func New() *cobra.Command {
 	rootCmd := &cobra.Command{
-		Use:          filepath.Base(os.Args[0]),
+		Use:          "kubeglass",
 		SilenceUsage: true,
 		Short:        "Compare the APIs of 2 kubernetes versions.",
 		Long:         `Given 2 kubernetes versions, compares the APIs of both showing all group, resource and version changes.`,
@@ -42,7 +42,13 @@ func New() *cobra.Command {
 	return rootCmd
 }
 
-func validate(_ *cobra.Command, _ []string) error {
+func validate(cmd *cobra.Command, _ []string) error {
+	if from == "" && to == "" {
+		if err := cmd.Help(); err != nil {
+			log.Fatal(err)
+		}
+		os.Exit(0)
+	}
 	if !strings.HasPrefix(from, "v") {
 		from = fmt.Sprintf("%c%s", 'v', from)
 	}
