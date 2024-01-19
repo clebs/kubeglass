@@ -44,4 +44,4 @@ jobs:
       - name: Verify goreleaser
         run: make snapshot
 
-      - run: ./dist/kubepug_linux_amd64_v1/kubepug version
+      - run: ./dist/kubeglass_linux_amd64_v1/kubeglass version

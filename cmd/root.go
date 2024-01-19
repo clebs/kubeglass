@@ -12,6 +12,7 @@ import (
 	"github.com/clebs/kubeglass/pkg/format"
 	"github.com/spf13/cobra"
 	"golang.org/x/mod/semver"
+	"sigs.k8s.io/release-utils/version"
 )
 
 var (
@@ -35,6 +36,8 @@ func New() *cobra.Command {
 	rootCmd.PersistentFlags().StringVarP(&from, "from", "f", "", "Sets the starting kuberntes version for the comparison")
 	rootCmd.PersistentFlags().StringVarP(&to, "to", "t", "", "Sets the target kuberntes version for the comparison")
 	rootCmd.PersistentFlags().StringVarP(&out, "out", "o", "", "Sets the output format (stdout, json, yaml)")
+
+	rootCmd.AddCommand(version.WithFont("starwars"))
 
 	return rootCmd
 }
