@@ -39,7 +39,7 @@ func New() *cobra.Command {
 	return rootCmd
 }
 
-func validate(cmd *cobra.Command, args []string) error {
+func validate(_ *cobra.Command, _ []string) error {
 	if !strings.HasPrefix(from, "v") {
 		from = fmt.Sprintf("%c%s", 'v', from)
 	}
@@ -48,24 +48,24 @@ func validate(cmd *cobra.Command, args []string) error {
 	}
 
 	if !semver.IsValid(from) {
-		return fmt.Errorf("The given from version (%s) is not a valid semantic verison", from)
+		return fmt.Errorf("the given from version (%s) is not a valid semantic version", from)
 	}
 	if !semver.IsValid(to) {
-		return fmt.Errorf("The given to version (%s) is not a valid semantic verison", to)
+		return fmt.Errorf("the given to version (%s) is not a valid semantic version", to)
 	}
 
 	if semver.Compare(from, "v1.28") == -1 {
-		return fmt.Errorf("Kubeglass only supports kubernetes versions v1.28+")
+		return fmt.Errorf("kubeglass only supports kubernetes versions v1.28+")
 	}
 
 	if semver.Compare(from, to) >= 0 {
-		return fmt.Errorf("The given from version (%s) must be lower than the to version (%s)", from, to)
+		return fmt.Errorf("the given from version (%s) must be lower than the to version (%s)", from, to)
 	}
 
 	return nil
 }
 
-func run(cmd *cobra.Command, args []string) error {
+func run(_ *cobra.Command, _ []string) error {
 	fromJSON, err := fetch.Version(from)
 	if err != nil {
 		return err

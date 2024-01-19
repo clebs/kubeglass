@@ -31,7 +31,7 @@ func Version(v string) ([]byte, error) {
 	download := ""
 	for _, f := range out {
 		if strings.Contains(f.Name, "aggregated") {
-			download = f.Download_url
+			download = f.DownloadURL
 		}
 	}
 
@@ -49,6 +49,6 @@ func Version(v string) ([]byte, error) {
 }
 
 type files []struct {
-	Name         string `json:"name"`
-	Download_url string `json:"download_url"`
+	Name        string `json:"name"`
+	DownloadURL string `json:"download_url"`
 }

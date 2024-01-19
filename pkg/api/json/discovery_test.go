@@ -21,5 +21,4 @@ func TestToAPIMap(t *testing.T) {
 	m, err = ToAPIMap(data)
 	require.NoError(t, err)
 	require.Len(t, m.Groups, 21)
-
 }
