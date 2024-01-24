@@ -13,8 +13,8 @@ const (
 	listDiscoveryFilesURL = `https://api.github.com/repos/kubernetes/kubernetes/contents/api/discovery?ref=release-%s`
 )
 
-// Version fetches the aggregated discovery spec for a given kubernetes version
-func Version(v string) ([]byte, error) {
+// SemVer fetches the aggregated discovery spec for a given kubernetes version
+func SemVer(v string) ([]byte, error) {
 	v = strings.TrimPrefix(v, "v")
 	// TODO: consider caching this to avoid exhausting rates.
 	lsResp, err := http.DefaultClient.Get(fmt.Sprintf(listDiscoveryFilesURL, v))
