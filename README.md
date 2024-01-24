@@ -18,6 +18,7 @@ To compare 2 kubernetes versions run `kubeglass --from=1.28 --to=1.29`. This wil
 ## Roadmap
 - [ ] Persistent caching of downloaded data
 - [ ] Airgapped support
+    - Allow `-f/--from` and `-t/--to` flags to take input files.
 - [ ] Richtext and colored printing to stdout
 - [ ] Krew support
 - [ ] Scan running clusters via the `/apis` endpoint
