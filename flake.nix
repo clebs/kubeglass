@@ -36,7 +36,7 @@
               "-trimpath"
             ];
 
-            vendorHash = "sha256-w2IMO3+FvOEcOaBytfgedR3DlBWJOUUilv1YJkBIEEg=";
+            vendorHash = "sha256-t564Kv23MPodQ2jbj+sjFBVJW3Jj9C3ezIKWexYcXAc=";
 
             meta = with nixpkgs.lib; {
               description = "Machine Agent";
