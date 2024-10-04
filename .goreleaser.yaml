@@ -1,4 +1,5 @@
 project_name: kubeglass
+version: 2
 
 env:
   - COSIGN_YES=true
