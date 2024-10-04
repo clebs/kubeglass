@@ -8,7 +8,7 @@ require (
 	github.com/stretchr/testify v1.9.0
 	golang.org/x/mod v0.19.0
 	gopkg.in/yaml.v3 v3.0.1
-	sigs.k8s.io/release-utils v0.8.4
+	sigs.k8s.io/release-utils v0.8.5
 )
 
 require (
