@@ -1,6 +1,7 @@
 module github.com/clebs/kubeglass
 
-go 1.21.6
+go 1.23.2
+toolchain go1.23
 
 require (
 	github.com/google/go-cmp v0.6.0
