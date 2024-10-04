@@ -25,7 +25,7 @@
     {
       # Kubeglass package
       packages = forAllSystems ({ pkgs }: {
-        default = pkgs.buildGoModule rec {
+        default = pkgs.buildGoModule {
           pname = "kubeglass";
             version = "0.0.1";
             src = ./.;
@@ -36,7 +36,7 @@
               "-trimpath"
             ];
 
-            vendorHash = "sha256-t564Kv23MPodQ2jbj+sjFBVJW3Jj9C3ezIKWexYcXAc=";
+            vendorHash = "sha256-+gReBKh+tedt0yexXLOcLTJURk/aWWzIn3coi/utQYM=";
 
             meta = with nixpkgs.lib; {
               description = "Machine Agent";
@@ -49,7 +49,7 @@
         default = pkgs.mkShell {
           # The Nix packages provided in the environment
           packages = with pkgs; [
-            go_1_22
+            go
             gotools # Go tools like goimports, godoc, and others
           ];
         };
