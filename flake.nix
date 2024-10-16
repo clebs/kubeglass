@@ -3,18 +3,17 @@
 
   # Flake inputs
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-23.11";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.05";
   };
 
   # Flake outputs
   outputs = { self, nixpkgs }:
     let
-      # Systems supported
       allSystems = [
-        "x86_64-linux" # 64-bit Intel/AMD Linux
-        "aarch64-linux" # 64-bit ARM Linux
-        "x86_64-darwin" # 64-bit Intel macOS
-        "aarch64-darwin" # 64-bit ARM macOS
+        "x86_64-linux"
+        "aarch64-linux"
+        "x86_64-darwin"
+        "aarch64-darwin"
       ];
 
       # Helper to provide system-specific attributes
@@ -39,8 +38,8 @@
             vendorHash = "sha256-+gReBKh+tedt0yexXLOcLTJURk/aWWzIn3coi/utQYM=";
 
             meta = with nixpkgs.lib; {
-              description = "Machine Agent";
-              platforms = platforms.unix;
+              description = "Make kubernetes API changes between versions as transparent as glass.";
+              platforms = platforms.all;
             };
         };
       });
