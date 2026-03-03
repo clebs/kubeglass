@@ -23,6 +23,14 @@ func SemVer(v string) ([]byte, error) {
 	}
 	defer lsResp.Body.Close()
 
+	if lsResp.StatusCode != http.StatusOK {
+		body, err := io.ReadAll(lsResp.Body)
+		if err != nil {
+			return nil, fmt.Errorf("error reading github response body [HTTP %d]: %w", lsResp.StatusCode, err)
+		}
+		return nil, fmt.Errorf("github API returned HTTP %d: %s", lsResp.StatusCode, string(body))
+	}
+
 	out := files{}
 	if err := json.NewDecoder(lsResp.Body).Decode(&out); err != nil {
 		return nil, fmt.Errorf("could not decode the github kubernetes discovery file list: %w", err)
@@ -44,6 +52,14 @@ func SemVer(v string) ([]byte, error) {
 		return nil, fmt.Errorf("could not get the aggregated discovery file [%s]: %w", download, err)
 	}
 	defer dlResp.Body.Close()
+
+	if dlResp.StatusCode != http.StatusOK {
+		body, err := io.ReadAll(dlResp.Body)
+		if err != nil {
+			return nil, fmt.Errorf("error reading github response body [HTTP %d]: %w", dlResp.StatusCode, err)
+		}
+		return nil, fmt.Errorf("github API returned HTTP %d downloading discovery file %s: %s", dlResp.StatusCode, download, string(body))
+	}
 
 	return io.ReadAll(dlResp.Body)
 }
